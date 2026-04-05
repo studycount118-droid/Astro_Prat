@@ -1,1 +1,1 @@
-document.Write("This is About Ram Overpricing");
+document.Write("Personal things");
